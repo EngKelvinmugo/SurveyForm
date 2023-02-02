@@ -1,0 +1,14 @@
+{
+    "name": "survey-form",
+    "version": "0.1.0",
+    "author": "EngKelvinmugo",
+    "main": "App.js",
+    "scripts": {
+        "start": "node App.js"
+    },
+    "dependencies": {
+        "async": "^3.2.4",
+        "body-parser": "^1.15.2",
+        "express": "^4.16.1"
+    }
+}
